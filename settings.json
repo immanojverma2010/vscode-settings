@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#2383cc",
+        "statusBar.foreground": "#ffffff"
+    },
+    "gitlens.views.repositories.branches.layout": "list",
+    "debug.javascript.autoAttachFilter": "disabled",
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": "{{put-password-here}}"
+        }
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.associations": {
+        "*.ts": "typescript"
+    },
+    "window.zoomLevel": 1,
+    "sonarlint.ls.javaHome": "c:\\Users\\manoj\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.14.1+1-jre"
+}
